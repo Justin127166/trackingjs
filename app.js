@@ -11,3 +11,4 @@ console.log(e.target.id)
 }
 
 eyeTracking()
+console.log('hi')
